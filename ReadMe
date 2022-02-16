@@ -1,1 +1,16 @@
-Read Me file
+##  Discount Store Project
+
+- Add Item to a 'Cart'
+- Remove Item from a 'Cart'
+- Get total Items and Amount in a 'Cart'
+- Apply discount if exist
+
+The Items ar saved in a Json file.
+
+
+## Future Work
+
+- Create an API to get manage the Items
+- Apply different kind of discount 
+
+
