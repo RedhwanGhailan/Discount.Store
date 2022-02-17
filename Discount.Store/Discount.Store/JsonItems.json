@@ -1,0 +1,32 @@
+﻿[
+  {
+    "itemNumber": 1,
+    "itemName": "Vase",
+    "itemPrice": 1.2,
+    "itemCurrency": "Euro",
+    "itemOfferDiscount": true,
+    "itemDiscount": {
+      "quantity": 2,
+      "newPrice": 1.5
+    }
+  },
+  {
+    "itemNumber": 2,
+    "itemName": "Big mug",
+    "itemPrice": 1,
+    "itemCurrency": "Euro",
+    "itemOfferDiscount": true,
+    "itemDiscount": {
+      "quantity": 3,
+      "newPrice": 0.90
+    }
+  },
+  {
+    "itemNumber": 3,
+    "itemName": "Napkins pack",
+    "itemPrice": 0.45,
+    "itemCurrency": "Euro",
+    "itemOfferDiscount": false,
+    "itemDiscount": {}
+  }
+]
